@@ -1,0 +1,30 @@
+[
+	{
+		"messageType": "SingleSale",
+		"productType": "apple",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "mango",
+		"unitPrice": "2",
+		"qunatity": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "apple",
+		"unitPrice": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "mango",
+		"unitPrice": "21"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "apple",
+		"unitPrice": "10",
+		"adjustMentType": "Add"
+	}
+]
+

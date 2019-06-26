@@ -1,0 +1,295 @@
+[
+	{
+		"messageType": "SingleSale",
+		"productType": "apple",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "mango",
+		"unitPrice": "2",
+		"qunatity": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "apple",
+		"unitPrice": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "mango",
+		"unitPrice": "21"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "apple",
+		"unitPrice": "10",
+		"adjustMentType": "Add"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Grapes",
+		"unitPrice": "1"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Guava",
+		"unitPrice": "2",
+		"qunatity": "5"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Guava",
+		"unitPrice": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Grapes",
+		"unitPrice": "1"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Guava",
+		"unitPrice": "10",
+		"adjustMentType": "Subtract"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Bananas",
+		"unitPrice": "4"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Bananas",
+		"unitPrice": "2",
+		"qunatity": "6"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Kiwi",
+		"unitPrice": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Kiwi",
+		"unitPrice": "5"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Kiwi",
+		"unitPrice": "10",
+		"adjustMentType": "Multiply"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Bananas",
+		"unitPrice": "4"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Blueberries",
+		"unitPrice": "2",
+		"qunatity": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Blueberries",
+		"unitPrice": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Kiwi",
+		"unitPrice": "5"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Blueberries",
+		"unitPrice": "7",
+		"adjustMentType": "Multiply"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Orange",
+		"unitPrice": "5"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Orange",
+		"unitPrice": "2",
+		"qunatity": "15"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Orange",
+		"unitPrice": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Kiwi",
+		"unitPrice": "5"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Orange",
+		"unitPrice": "7",
+		"adjustMentType": "Subtract"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Peach",
+		"unitPrice": "8"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Orange",
+		"unitPrice": "2",
+		"qunatity": "15"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Peach",
+		"unitPrice": "15"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Papaya",
+		"unitPrice": "50"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Papaya",
+		"unitPrice": "25",
+		"adjustMentType": "Subtract"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Pomegranate",
+		"unitPrice": "14"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Pomegranate",
+		"unitPrice": "12",
+		"qunatity": "1"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Peach",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Papaya",
+		"unitPrice": "30"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Pomegranate",
+		"unitPrice": "15",
+		"adjustMentType": "Add"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Pineapple",
+		"unitPrice": "14"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Pomegranate",
+		"unitPrice": "12",
+		"qunatity": "1"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Pineapple",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Pineapple",
+		"unitPrice": "30"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Pineapple",
+		"unitPrice": "15",
+		"adjustMentType": "Subtract"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Strawberries",
+		"unitPrice": "8"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Pomegranate",
+		"unitPrice": "12",
+		"qunatity": "1"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Strawberries",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Pineapple",
+		"unitPrice": "30"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Strawberries",
+		"unitPrice": "14",
+		"adjustMentType": "Multiply"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Watermelon",
+		"unitPrice": "80"
+	},
+	{
+		"messageType": "MultiSale",
+		"productType": "Pomegranate",
+		"unitPrice": "240",
+		"qunatity": "12"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Strawberries",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Watermelon",
+		"unitPrice": "70"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Watermelon",
+		"unitPrice": "90",
+		"adjustMentType": "Add"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Strawberries",
+		"unitPrice": "10"
+	},
+	{
+		"messageType": "SingleSale",
+		"productType": "Watermelon",
+		"unitPrice": "70"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Watermelon",
+		"unitPrice": "40",
+		"adjustMentType": "Subtract"
+	},
+	{
+		"messageType": "Adjustment",
+		"productType": "Strawberries",
+		"unitPrice": "5",
+		"adjustMentType": "Multiply"
+	}
+]
+
